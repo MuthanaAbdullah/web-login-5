@@ -1,0 +1,38 @@
+{
+    "admin": {
+        "password": "36777fafaf5ec8402b45dd577ae009acad88699f954a2c6beae0cb4e0b06e8e4",
+        "role": "مدير النظام",
+        "disabled": false,
+        "last_active": "2026-10-23 10:12:28"
+    },
+    "ubnt": {
+        "password": "8266498d969081c29737b8daeb5b51d60e56d008fff243a39d16c3032d42f6cf",
+        "role": "طاقم فني",
+        "disabled": false,
+        "last_active": ""
+    },
+    "GASSEM": {
+        "password": "5cbc9478d29ac6b349742e65b67f41fb2478768cb81a359c98fcdedf60882f59",
+        "role": "طاقم فني",
+        "disabled": false,
+        "last_active": ""
+    },
+    "ABDRAZAK": {
+        "password": "73a2af8864fc500fa49048bf3003776c19938f360e56bd03663866fb3087884a",
+        "role": "طاقم فني",
+        "disabled": false,
+        "last_active": ""
+    },
+    "MOS3AB": {
+        "password": "46eaa26621e4955c1675b55d446c6d03325f458b59a465f898d42924010e7286",
+        "role": "طاقم فني",
+        "disabled": false,
+        "last_active": ""
+    },
+    "AHMAD": {
+        "password": "03aaef0fd45d47ee37afee60b41f0a80010f58f95d3d34e9b7dc253c8558bf2a",
+        "role": "طاقم فني",
+        "disabled": false,
+        "last_active": ""
+    }
+}
